@@ -1,0 +1,2 @@
+node_modules
+MONGO_URL = mongodb+srv://sujaysharvesh098:CqpQb1OU8h6MRJoG@backenddb.pjr6k.mongodb.net/Node-api?retryWrites=true&w=majority&appName=backendDB
